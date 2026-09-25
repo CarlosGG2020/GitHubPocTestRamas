@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "p_catalog": "airline_demo",
+    "p_schema": "bronze",
+    "p_table_name": "rates_info"
+  },
+  "pro": {
+    "catalog": "pro_catalog",
+    "schema": "silver",
+    "table_name": "rates_info"
+  }
+}
