@@ -1,3 +1,3 @@
-SELECT id, nombre, email
-FROM clientes
-where nombre='aa';
+SELECT aa, bb, cc,dd
+FROM clientes JOIN pepe
+where dd='aa';
